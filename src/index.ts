@@ -1,4 +1,3 @@
-/// <reference path="type_definitions/node.d.ts" />
 import * as fs from 'fs';
 import * as path from 'path';
 import {ICommand} from './ICommand';

@@ -1,4 +1,3 @@
-/// <reference path="../type_definitions/rimraf.d.ts" />
 import * as rimraf from 'rimraf';
 import * as path from 'path';
 
